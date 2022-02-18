@@ -53,7 +53,9 @@
 
 <h1 class="display-5"> Recent News </h1>
 
-
+<div class="container">
+<a class="twitter-timeline" href="https://twitter.com/blockchain?ref_src=twsrc%5Etfw">Tweets by blockchain</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+</div>
     <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
   </body>
 </html>
