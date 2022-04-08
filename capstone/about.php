@@ -54,8 +54,23 @@
 <!-- About Page Content  -->
 <h1 class="display-5"> About Blockchain </h1>
 
+<div>
 
+<b class="lh-1">This is the About section of the web application. Here you will find many different inforgraphics
+  to help learn about blockchain and to see if it might be feasible for your organization to implement a blockchain solution.
+</b>
+</div>
 
+  <hr>
+<div>
+<img class="w3-image" src="img/about-blockchain.jpg" width="800" height="1300" style="display:block;text-align:center;margin: 0 auto;">
+</div>
+
+</br>
+
+<div>
+<p class="link"> Click <a href="https://www.pwc.com/us/en/industries/financial-services/fintech/bitcoin-blockchain-cryptocurrency.html"> here </a> for more information regarding blockchain.</p>
+</div>
 
     <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
   </body>

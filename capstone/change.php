@@ -51,8 +51,14 @@
 
 <!-- Change Management Content  -->
 <h1 class="display-5"> Change Management </h1>
+<div>
+  <b class="lh-1">This is the change management portion of the web application. We have utilized the Satir OCM Growth Model to clearly
+    outline the organizational change management process for implementing a blockchain solution at your organization.
+  </b>
+  <hr>
+  <img class="w3-image" src="img/changeManagement.png" width="1200" height="600">
 
-
+</div>
     <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>
   </body>
 </html>

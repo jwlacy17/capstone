@@ -52,7 +52,21 @@
 
 <!-- Framework Content  -->
 
-<h1 class="display-5"> Blockchain Framework </h1>
+<h1 class="display-5"> Blockchain Use-Case Assessment </h1>
+
+<div>
+<b class="lh-1">This is the asssessment portion of the web application. We have created a hierarchy, which is presented below,
+that has four main components: Assessment, Use-Case Capability, Sub-Capability, and Specific Use of Sub-Capability. The Assessment
+Stage starts off with a 'Do I need Blockchain?' questionnaire proceeding to various other questionnaires before proceeding to level 2 of the hierarchy.
+</b>
+  <hr>
+  <h1 class="display-6"> Blockchain Hierarchy </h1>
+  <img class="w3-image" src="img/hierarchy.png" width="1200" height="600">
+
+</div>
+
+<p class="link"> Click <a href="needOfBlockchain.php"> here </a> to get to the 'Do I need a Blockchain Solution?' Assessment</p>
+
 
 
     <script src="../assets/dist/js/bootstrap.bundle.min.js"></script>

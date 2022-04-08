@@ -48,17 +48,16 @@
 
 <!-- Home Page Content  -->
 
-<h1 class="display-5"> Blockchain: The New Technology of Trust</h1>
 
 <header class="w3-display-container w3-content w3-wide" style="max-width:1500px;" id="home">
-  <img class="w3-image" src="img/hp.jpeg" width="1300" height="600">
+  <img class="w3-image" src="img/pwcLogo.svg" width="1000" height="600" style="vertical-align:middle;margin:0px 50px">
   <div class="w3-display-middle w3-margin-top w3-center">
   </div>
 </header>
 
 
 <div class="projects">
-<h3> Welcome to our Blockchain Website! </h3>
+  <h1 class="display-5"> Blockchain: The New Technology of Trust</h1>
 <p> Here you will find more about Blockchain, a framework to help guide you through the process,
   change management with Blockchain, and the latest news! </p>
 </div>
